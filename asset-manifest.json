@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaif-portfolio/static/css/main.f4eb0dbb.css",
+    "main.js": "/kaif-portfolio/static/js/main.07134369.js",
+    "static/media/kaif.jpg": "/kaif-portfolio/static/media/kaif.0a5eff9de071613244f8.jpg",
+    "static/media/resume.pdf": "/kaif-portfolio/static/media/resume.20d3f0ba8ce156d6dfa7.pdf",
+    "index.html": "/kaif-portfolio/index.html",
+    "main.f4eb0dbb.css.map": "/kaif-portfolio/static/css/main.f4eb0dbb.css.map",
+    "main.07134369.js.map": "/kaif-portfolio/static/js/main.07134369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4eb0dbb.css",
+    "static/js/main.07134369.js"
+  ]
+}
